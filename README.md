@@ -101,7 +101,3 @@ BorgesIndex/
 │   └── metadata.pkl          # Saved paper information
 └── README.md                 # This file
 ```
-
-```
-
-```

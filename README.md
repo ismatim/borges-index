@@ -21,7 +21,7 @@ Ensure you have Python 3.10+ installed.
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/BorgesIndex.git](https://github.com/yourusername/BorgesIndex.git)
+   git clone https://github.com/yourusername/BorgesIndex.git
    cd BorgesIndex
    ```
 

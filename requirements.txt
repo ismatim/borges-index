@@ -1,0 +1,14 @@
+
+# LlamaIndex Ecosystem (2026 Stack)
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-retrievers-bm25
+
+# Search & Retrieval Utilities
+rank-bm25
+PyStemmer
+sentence-transformers
+
+# Core SDK
+openai>=1.0.0
